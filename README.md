@@ -1,1 +1,1 @@
-Real Time Weathe Dashboard using MERN stack
+Real Time Weather Dashboard using MERN stack
